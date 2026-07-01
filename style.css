@@ -11,7 +11,7 @@ body {
     background-color: #f5f5f5;
     color: #ffffff;
     line-height: 1.6;
-    background-image: url('https://www.bosch.com.br/media/stories/agronegocio/agricultura_sustentavel/agricultura-sustentvel-como-produzir-comida-para-o-mundo-todo-e-preservar-o-meio-ambiente_res_1280x720.webp'); /* coloque aqui o link direto */
+    background-image: url=("https://media.licdn.com/dms/image/v2/C5112AQFJSpSSV0abhw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1520103740423?e=2147483647&amp;v=beta&amp;t=mCmUbUWzS3cj_phgoSjSd7L7y0TyjSi58ze49iJAgdc");
     background-size: cover;       /* cobre toda a tela */
     background-position: center;  /* centraliza a imagem */
     background-repeat: no-repeat; /* evita repetição */
